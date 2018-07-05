@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StorageSharedPreference</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="ur_email">Your Email is :</string>
+    <string name="ur_pass">Your Password is :</string>
+    <string name="edit">Edit</string>
+    <string name="next">Next</string>
+    <string name="delete">Delete</string>
+</resources>

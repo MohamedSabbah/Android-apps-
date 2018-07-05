@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Collage</string>
+    <string name="id">COLLAGE ID</string>
+    <string name="pass">PASSWORD:</string>
+    <string name="remember">remember me</string>
+    <string name="sign">SIGN IN</string>
+    <string name="forgetpass">FORGOT PASSWORD</string>
+    <string name="name">NAME:</string>
+    <string name="edit">Edit</string>
+    <string name="browser">Browser</string>
+    <string name="dail">Dail</string>
+    <string name="hello">Hello</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="option4">Option4</string>
+    <string name="enter">Enter Version Andriod</string>
+    <string name="add">Add</string>
+</resources>

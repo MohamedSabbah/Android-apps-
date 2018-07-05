@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="entername">Enter The Name</string>
+    <string name="enterbook">Enter The Book</string>
+    <string name="enterbtn">Button</string>
+    <string name="enterid">Enter The ID</string>
+    <string name="showkbook">Show All Books</string>
+    <string name="delbook">Delete All Books</string>
+    <string name="id2">ID</string>
+    <string name="Auth">Author</string>
+    <string name="book">Book</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
